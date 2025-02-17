@@ -1,0 +1,25 @@
+Results for Blockchain:
+
+Name: Polygon
+Website: https://polygon.technology/
+Technology Area: Blockchain
+--------------------------------------------------
+Name: WazirX
+Website: https://wazirx.com/
+Technology Area: Blockchain
+--------------------------------------------------
+Name: Minddeft Technologies Private Limited
+Website: https://www.minddeft.com/
+Technology Area: Blockchain
+--------------------------------------------------
+Name: Clarisco Solutions
+Website: https://clarisco.com/
+Technology Area: Blockchain
+--------------------------------------------------
+Name: Somish Blockchain Labs
+Website: https://www.somish.com/blockchain/
+Technology Area: Blockchain
+--------------------------------------------------
+
+Summary:
+The blockchain ecosystem in India is thriving with a range of promising startups. The leading ones include Polygon, WazirX, Minddeft Technologies Private Limited, Clarisco Solutions, and Somish Blockchain Labs. These companies offer a variety of solutions from protocol-agnostic platforms, blockchain consultation services, to the development of smart contracts, and are well positioned to shape the future of blockchain technology in India and beyond.

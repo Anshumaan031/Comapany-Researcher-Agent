@@ -1,0 +1,33 @@
+Results for Cybersecurity:
+
+Name: IDfy
+Website: https://www.idfy.com/
+Technology Area: Cybersecurity
+--------------------------------------------------
+Name: Seclore
+Website: https://www.seclore.com/
+Technology Area: Cybersecurity
+--------------------------------------------------
+Name: Druva
+Website: https://www.druva.com/
+Technology Area: Cybersecurity
+--------------------------------------------------
+Name: Signzy
+Website: https://signzy.com/
+Technology Area: Cybersecurity
+--------------------------------------------------
+Name: EMudhra
+Website: https://www.emudhra.com/
+Technology Area: Cybersecurity
+--------------------------------------------------
+Name: Seqrite
+Website: https://www.seqrite.com/
+Technology Area: Cybersecurity
+--------------------------------------------------
+Name: Lucideus
+Website: https://lucideus.com/
+Technology Area: Cybersecurity
+--------------------------------------------------
+
+Summary:
+The top emerging Indian startups in Cybersecurity technology are IDfy, Seclore, Druva, Signzy, EMudhra, Seqrite, and Lucideus. These startups are providing advanced and customized cybersecurity solutions to various industries, utilizing technologies like data-centric security, cloud data backup and protection, public key infrastructure, artificial intelligence, and machine learning.

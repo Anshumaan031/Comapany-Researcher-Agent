@@ -1,0 +1,49 @@
+Results for Hardware, Semiconductors, and Embedded:
+
+Name: SiSoC Semiconductor Technologies
+Website: No website found
+Technology Area: Semiconductor, Embedded
+--------------------------------------------------
+Name: Valtrix Systems
+Website: No website found
+Technology Area: Semiconductor, Embedded
+--------------------------------------------------
+Name: Advantech
+Website: No website found
+Technology Area: Embedded Systems
+--------------------------------------------------
+Name: Mindgrove
+Website: No website found
+Technology Area: Embedded Systems
+--------------------------------------------------
+Name: InCore
+Website: No website found
+Technology Area: Embedded Systems
+--------------------------------------------------
+Name: AVIN Systems
+Website: No website found
+Technology Area: Embedded Systems
+--------------------------------------------------
+Name: Vayavya Labs
+Website: http://www.vayavyalabs.com
+Technology Area: Hardware, Embedded, Automation
+--------------------------------------------------
+Name: Blueberry Semiconductors
+Website: No website found
+Technology Area: Semiconductor
+--------------------------------------------------
+Name: FermionIC Design
+Website: No website found
+Technology Area: Semiconductor
+--------------------------------------------------
+Name: Mindgrove Technologies
+Website: No website found
+Technology Area: Semiconductor
+--------------------------------------------------
+Name: Netrasemi
+Website: No website found
+Technology Area: Semiconductor
+--------------------------------------------------
+
+Summary:
+A list of top emerging Indian startups in Hardware, Semiconductors, and Embedded technology includes SiSoC Semiconductor Technologies, Valtrix Systems, Advantech, Mindgrove, InCore, AVIN Systems, Vayavya Labs with an official website, Blueberry Semiconductors, FermionIC Design, Mindgrove Technologies, and Netrasemi.

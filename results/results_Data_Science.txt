@@ -1,0 +1,29 @@
+Results for Data Science:
+
+Name: Data Science Wizards (DSW)
+Website: Unavailable
+Technology Area: Data Science
+--------------------------------------------------
+Name: Heaps Health Solutions
+Website: Unavailable
+Technology Area: Data Science
+--------------------------------------------------
+Name: Fivetran
+Website: https://fivetran.com/
+Technology Area: Data Science
+--------------------------------------------------
+Name: Aryng
+Website: Unavailable
+Technology Area: Data Science
+--------------------------------------------------
+Name: Crediwatch (CW)
+Website: Unavailable
+Technology Area: Data Science
+--------------------------------------------------
+Name: Ekosight
+Website: Unavailable
+Technology Area: Data Science
+--------------------------------------------------
+
+Summary:
+The most promising Data Science startups in India are Data Science Wizards (DSW), Heaps Health Solutions, Fivetran, Aryng, Crediwatch (CW), and Ekosight. Unfortunately, official websites for most of these companies could not be retrieved in the search results.

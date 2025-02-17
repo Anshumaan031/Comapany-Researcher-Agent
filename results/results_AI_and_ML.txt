@@ -1,0 +1,33 @@
+Results for AI and ML:
+
+Name: Data Science Wizards (DSW)
+Website: https://www.datasciencewizards.com/
+Technology Area: AI and ML
+--------------------------------------------------
+Name: Heaps Health Solutions
+Website: https://www.heapshealth.com/
+Technology Area: AI and ML
+--------------------------------------------------
+Name: Yellow.ai
+Website: https://yellow.ai/
+Technology Area: AI and ML
+--------------------------------------------------
+Name: SpotDraft
+Website: https://spotdraft.com/
+Technology Area: AI and ML
+--------------------------------------------------
+Name: fleetx
+Website: https://fleetx.io/
+Technology Area: AI and ML
+--------------------------------------------------
+Name: Semantic Web Tech
+Website: https://www.semanticwebtech.com/
+Technology Area: AI and ML
+--------------------------------------------------
+Name: Soulpage IT Solutions
+Website: https://soulpageit.com/
+Technology Area: AI and ML
+--------------------------------------------------
+
+Summary:
+The search results yielded several emerging Indian startups specializing in AI and ML technology. These include Data Science Wizards (DSW), Heaps Health Solutions, and Yellow.ai, which offer a range of AI and ML solutions for businesses. Additionally, SpotDraft, fleetx, Semantic Web Tech, and Soulpage IT Solutions leverage AI and ML technologies in their products and services aimed at various industries such as supply chain, logistics, data science and more.

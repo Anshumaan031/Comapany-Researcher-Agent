@@ -1,0 +1,33 @@
+Results for Identity Management and Authentication:
+
+Name: IDfy
+Website: https://www.idfy.com/
+Technology Area: Identity Management and Authentication technology
+--------------------------------------------------
+Name: Digio
+Website: https://digio.in/
+Technology Area: Identity Management and Authentication technology
+--------------------------------------------------
+Name: OTPless
+Website: https://otpless.com/
+Technology Area: Identity Management and Authentication technology
+--------------------------------------------------
+Name: Tango Eye
+Website: https://www.tangoeye.com/
+Technology Area: Identity Management and Authentication technology
+--------------------------------------------------
+Name: Innefu
+Website: https://www.innefu.com/
+Technology Area: Identity Management and Authentication technology
+--------------------------------------------------
+Name: Zoop
+Website: https://zoop.one/
+Technology Area: Identity Management and Authentication technology
+--------------------------------------------------
+Name: Accura Scan
+Website: https://accurascan.com/
+Technology Area: Identity Management and Authentication technology
+--------------------------------------------------
+
+Summary:
+The top emerging Indian startups in the Identity Management and Authentication technology include IDfy, Digio, OTPless, Tango Eye, Innefu, Zoop, and Accura Scan. These startups provide various services such as online identity verification, digital signing, passphrase-less authentication, video-based customer analytics, predictive analytics, and digital identity solutions respectively.

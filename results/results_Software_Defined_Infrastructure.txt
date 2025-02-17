@@ -1,0 +1,29 @@
+Results for Software Defined Infrastructure:
+
+Name: MindTree
+Website: https://www.mindtree.com/
+Technology Area: Software Defined Infrastructure
+--------------------------------------------------
+Name: Dhee Masala
+Website: https://www.dheemasala.org/
+Technology Area: Software Defined Infrastructure
+--------------------------------------------------
+Name: Tamar Software
+Website: http://www.tamarsoftware.co.in/
+Technology Area: Software Defined Infrastructure
+--------------------------------------------------
+Name: Metageeks Technologies Pvt Ltd
+Website: http://www.metageeks.in/
+Technology Area: Software Defined Infrastructure
+--------------------------------------------------
+Name: Apphie Technologies Private Limited (HQ)
+Website: https://www.apphietech.com/
+Technology Area: Software Defined Infrastructure
+--------------------------------------------------
+Name: Appinventiv
+Website: https://appinventiv.com/
+Technology Area: Software Defined Infrastructure
+--------------------------------------------------
+
+Summary:
+The top emerging Indian startups in Software Defined Infrastructure technology include MindTree, Dhee Masala, Tamar Software, Metageeks Technologies Pvt Ltd, Apphie Technologies Private Limited (HQ), and Appinventiv. These startups provide innovative solutions in the IT sector, using a combination of cloud-based services, AI integration, and blockchain technology to revolutionize the industry.

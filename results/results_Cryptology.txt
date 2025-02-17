@@ -1,0 +1,25 @@
+Results for Cryptology:
+
+Name: Polygon
+Website: https://polygon.technology/
+Technology Area: Cryptology
+--------------------------------------------------
+Name: WazirX
+Website: https://wazirx.com/
+Technology Area: Cryptology
+--------------------------------------------------
+Name: Debut Infotech
+Website: https://debutinfotech.com/
+Technology Area: Cryptology
+--------------------------------------------------
+Name: MindDeft
+Website: https://minddeft.com/
+Technology Area: Cryptology
+--------------------------------------------------
+Name: InstaDapp
+Website: https://instadapp.io/
+Technology Area: Cryptology
+--------------------------------------------------
+
+Summary:
+The top emerging Indian startups in Cryptology technology include Polygon, WazirX, Debut Infotech, MindDeft, and InstaDapp. These startups are specializing in various areas of cryptology, including Blockchain development, cryptocurrency development, smart contracts, token sale, and private blockchain.

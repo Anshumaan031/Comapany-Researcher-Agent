@@ -1,0 +1,33 @@
+Results for Computer Vision:
+
+Name: Attentive AI
+Website: https://www.attentive.ai/
+Technology Area: Computer Vision
+--------------------------------------------------
+Name: ParallelDots
+Website: https://www.paralleldots.com/
+Technology Area: Computer Vision
+--------------------------------------------------
+Name: Assert AI
+Website: https://www.assert.ai/
+Technology Area: Computer Vision
+--------------------------------------------------
+Name: OptiSol
+Website: https://www.optisolbusiness.com/
+Technology Area: Computer Vision
+--------------------------------------------------
+Name: Wisepl
+Website: https://www.wisepl.com/
+Technology Area: Computer Vision
+--------------------------------------------------
+Name: SYGNIFY
+Website: https://www.sygnify.com/
+Technology Area: Computer Vision
+--------------------------------------------------
+Name: Pixolish System
+Website: https://www.pixolish.com/
+Technology Area: Computer Vision
+--------------------------------------------------
+
+Summary:
+Here are some promising Indian startups in the field of Computer Vision: Attentive AI, ParallelDots, Assert AI, OptiSol, Wisepl, SYGNIFY, and Pixolish System.

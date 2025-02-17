@@ -1,0 +1,33 @@
+Results for Internet of Things:
+
+Name: Faclon Labs
+Website: https://www.faclon.com/
+Technology Area: Internet of Things
+--------------------------------------------------
+Name: Advantech
+Website: https://www.advantech.in/
+Technology Area: Internet of Things
+--------------------------------------------------
+Name: Saankhya Labs
+Website: https://www.saankhyalabs.com/
+Technology Area: Internet of Things
+--------------------------------------------------
+Name: DATOMS
+Website: http://www.datoms.io/
+Technology Area: Internet of Things
+--------------------------------------------------
+Name: Winjit
+Website: https://www.winjit.com/
+Technology Area: Internet of Things
+--------------------------------------------------
+Name: Trinity Mobility
+Website: http://trinitymobility.com/
+Technology Area: Internet of Things
+--------------------------------------------------
+Name: Aeron Systems
+Website: https://www.aeronsystems.com/
+Technology Area: Internet of Things
+--------------------------------------------------
+
+Summary:
+The top emerging Indian startups in IoT technology include Faclon Labs, Advantech, Saankhya Labs, DATOMS, Winjit, Trinity Mobility, and Aeron Systems. These startups operate in various sectors within the IoT landscape delivering promising technologies and solutions.

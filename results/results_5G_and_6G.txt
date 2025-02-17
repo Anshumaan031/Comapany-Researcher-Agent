@@ -1,0 +1,25 @@
+Results for 5G and 6G:
+
+Name: Aprecomm
+Website: https://www.aprecomm.com/
+Technology Area: 5G and 6G
+--------------------------------------------------
+Name: Nokia
+Website: https://www.nokia.com/
+Technology Area: 5G and 6G
+--------------------------------------------------
+Name: LabLabee
+Website: https://lablabee.com/
+Technology Area: 5G and 6G
+--------------------------------------------------
+Name: neLayer Ltd
+Website: https://www.nelayer.com/
+Technology Area: 5G and 6G
+--------------------------------------------------
+Name: Quanscient
+Website: https://quanscient.com/
+Technology Area: 5G and 6G
+--------------------------------------------------
+
+Summary:
+The search results indicate a growing focus on 5G and 6G technologies among Indian startups. Companies like Aprecomm and Nokia are developing AI-driven solutions to improve broadband access and customer retention, particularly in rural India. Other contenders in this space include LabLabee, neLayer Ltd., and Quanscient, each contributing to the deployment of 5G networks and services across India.
