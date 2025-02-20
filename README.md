@@ -11,6 +11,8 @@ An intelligent agent system designed to research and catalog emerging Indian tec
 - Configurable search parameters and technology areas
 - Result export in both database and text file formats
 
+![Screenshot of the application](UI.png)
+
 ## Project Structure
 
 ```
